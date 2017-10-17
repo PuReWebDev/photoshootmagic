@@ -1,0 +1,2 @@
+# photoshootmagic
+Photoshoot Management Software
